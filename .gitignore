@@ -1,4 +1,3 @@
-/cloud-api-commons/
 .idea
 *.iml
 *.vm
@@ -19,3 +18,14 @@ cloud-gateway-gateway9527/src/test/
 cloud-provider-hystrix-payment8001/src/test/
 cloud-provider-payment8001/src/test/
 cloud-provider-payment8002/src/test/
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+cloud-api-commons/src/main/resources/
+cloud-api-commons/src/test/
+src/
