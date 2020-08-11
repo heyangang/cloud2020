@@ -5,3 +5,17 @@
 *.md
 *.fml
 *.apt
+target/
+/site/
+cloud-config-center-3344/src/main/java/
+cloud-config-center-3344/src/test/
+cloud-consumer-feign-hystrix-order80/src/test/
+cloud-consumer-feign-order80/src/test/
+cloud-consumer-hystrix-dashboard9001/src/test/
+cloud-consumer-order80/src/test/
+cloud-eureka-server7001/src/test/
+cloud-eureka-server7002/src/test/
+cloud-gateway-gateway9527/src/test/
+cloud-provider-hystrix-payment8001/src/test/
+cloud-provider-payment8001/src/test/
+cloud-provider-payment8002/src/test/
