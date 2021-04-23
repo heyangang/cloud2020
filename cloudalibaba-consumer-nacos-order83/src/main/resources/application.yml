@@ -1,0 +1,15 @@
+server:
+  port: 83
+  undertow:
+    decode-url:
+
+spring:
+  application:
+    name: nacos-order-consumer
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+
+server-url:
+  nacos-user-server: http://nacos-payment-provider
